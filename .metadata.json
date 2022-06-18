@@ -1,0 +1,10 @@
+[
+  {
+    "package": "dashboardthemes",
+    "oncran": true
+  },
+  {
+    "package": "openbankeR",
+    "oncran": true
+  }
+]
