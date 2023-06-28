@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dashboardthemes"]
 	path = dashboardthemes
 	url = https://github.com/nik01010/dashboardthemes
-	shallow = true
-	registered = true
 [submodule "openbankeR"]
 	path = openbankeR
 	url = https://github.com/nik01010/openbanker
-	shallow = true
-	registered = true
